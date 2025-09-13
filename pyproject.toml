@@ -24,7 +24,7 @@ authors = [
   { name = "Julio Saez-Rodriguez"},
 
 ]
-requires-python = ">=3.10,<3.13"
+requires-python = ">=3.10,<=3.13"
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.10",
