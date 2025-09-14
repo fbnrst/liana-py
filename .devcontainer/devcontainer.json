@@ -2,7 +2,7 @@
   "name": "Sequencing Docker Stacks",
   "image": "mcr.microsoft.com/devcontainers/python:3.13",
 
-  "postCreateCommand": "pip install --no-cache-dir hatch && hatch test",
+  "postCreateCommand": "pip install --no-cache-dir hatch",
 
   "customizations": {
     "vscode": {
